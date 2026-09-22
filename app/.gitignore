@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Artefacts d'analyse générés (garde-fou : jamais versionner les constats)
+RAPPORTS/
+RAPPORT/
+
+# Fichiers temporaires / verrous
+~$*
+*.docx~
+Thumbs.db
